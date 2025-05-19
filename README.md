@@ -25,7 +25,7 @@ Suivez les étapes suivantes :
 
   1. Téléchargez les fichiers sur votre PC, stockez les dans un dossier à part puis importez les dans VScode
   2. Téléchargez la bibliothèque Raylib sur votre PC
-  3. Dans le MakeFile fourni (CMakeLists.txt), corrigez le chemin permettant d'accéder à la bibliothèque Raylib en fonction d'où vous avez enregistré cette dernière sur votre PC. Corrigez également le nom de l'éxécutable (ici ConnectN) en fonction du nom de votre projet VScode.
+  3. Dans le MakeFile fourni (CMakeLists.txt), corrigez le chemin permettant d'accéder à la bibliothèque Raylib en fonction d'où vous l'avez enregistrée sur votre PC. Corrigez également le nom de l'éxécutable (ici ConnectN) en fonction du nom de votre projet VScode.
      
 <p align="center">
   <img src="screenMake.png" alt="" width="60%">
@@ -33,5 +33,5 @@ Suivez les étapes suivantes :
      
   4. Exécutez  
 
-Vous devriez normalement être face à la page d'acceuil de notre jeu. Comme expliqué ci-dessus, réglez vos paramètres comme vous le souhaitez et cliquez sur commencer.  
+Vous devriez normalement être face à la page d'acceuil de notre jeu. Comme expliqué ci-dessus, réglez vos paramètres comme vous le souhaitez et cliquez sur Commencer.  
 Si un quelconque problème ne vous permet pas de lancer le jeu, n'hésitez pas à nous contacter.
