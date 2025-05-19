@@ -1,6 +1,6 @@
 # Puissance N
 
-Bienvenue sur la page git de notre jeu Puissance N !
+Bienvenue sur la page git de notre jeu Puissance N !  
 Vous y trouverez un petit mode d'emploi et un guide d'installation vous permettant de lancer le jeu correctement.
 
 # Principe du jeu
