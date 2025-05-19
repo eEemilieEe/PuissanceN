@@ -26,7 +26,9 @@ Suivez les étapes suivantes :
   2. Téléchargez la bibliothèque Raylib sur votre PC
   3. Dans le MakeFile fourni (CMakeLists.txt), corrigez le chemin permettant d'accéder à la bibliothèque Raylib en fonction d'où vous avez enregistré cette dernière sur votre PC. Corrigez également le nom de l'éxécutable (ici ConnectN) en fonction du nom de votre projet VScode.
      
-     ![Screen Make](screenMake.png)
+<p align="center">
+  <img src="screenMake.png" alt="" width="60%">
+</p>
      
   4. Exécutez  
 
